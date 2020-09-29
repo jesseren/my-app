@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I created this app because I wanted to rewrite my personal website with React. The website can be found at jesseren.github.io.
 ## Available Scripts
 
 In the project directory, you can run:
